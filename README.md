@@ -33,7 +33,7 @@ To set up and use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/smartvision-app.git
+   git clone https://github.com/VirendraChavda/SmartVision.git
    cd smartvision-app
    ```
 2. Create a virtual environment:
